@@ -1,2 +1,2 @@
-# KState_DS
-Data Science/Data Analytics for Kansas State University
+#data science/analytics portfolio
+Data Science/Data Analytics
