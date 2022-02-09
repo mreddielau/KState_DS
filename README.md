@@ -1,1 +1,1 @@
-Data Science/Data Analytics
+Data Science/Data Analytics for Kansas State University
